@@ -2,7 +2,7 @@
 
 
 <div align=center><h2>
-im a college student who enjoy coding and always dream if being a influential AI programer
+im a college student who enjoy coding and always dream of being a influential AI programer
   </h2></div>
 
 
