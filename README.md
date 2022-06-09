@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
 
-<h3><b>-Dream: i want to be a AI programer who give good way to world</b></h>
+<h2><b>I want to be a AI programer who give good way to world</b></h2>
 
 
 
-<div align=center><h1> 👨🏻‍💻 Tech Stack ✍🏻 </h1></div>
+<div align=center><div>
+  <h1> 🔆Tech Stack🔆 </h1>
+  </div>
+
 
   <div align=center> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
