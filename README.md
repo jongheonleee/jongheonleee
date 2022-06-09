@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
 
-<h2 align=center><b>I want to be a AI programer who give good way to world</b></h2>
+
+<div align=center><h2>
+im a college student who enjoy coding and always dream if being a influential AI programer
+  </h2></div>
+
 
 
 
@@ -24,5 +28,6 @@
 
 </div>
 </div>
+
 
  
