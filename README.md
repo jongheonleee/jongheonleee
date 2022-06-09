@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
 
-<h2><b>I want to be a AI programer who give good way to world</b></h2>
+<h2 align=center><b>I want to be a AI programer who give good way to world</b></h2>
 
 
 
