@@ -26,6 +26,7 @@ im a college student who enjoy coding and always dream of being a influential AI
 
    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/yeonuel)
 </div>
 </div>
 
