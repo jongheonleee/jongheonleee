@@ -31,7 +31,6 @@ im a college student who enjoy coding and always dream of being a influential AI
 
   <h1>🚀LeetCode🏆</h1>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/qwefghnm1212)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/qwefghnm1212)](https://leetcode.com/qwefghnm1212)
 
 
  
