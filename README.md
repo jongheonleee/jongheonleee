@@ -28,7 +28,6 @@ im a college student who enjoy coding and always dream of being a influential AI
 
 <!--   <h1>🚀LeetCode🏆</h1> -->
 ![](https://leetcard.jacoblin.cool/qwefghnm1212?theme=unicorn)
-![](https://leetcard.jacoblin.cool/qwefghnm1212?theme=light,unicorn)
 </div>
 </div>
 
