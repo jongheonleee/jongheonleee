@@ -30,7 +30,9 @@ im a college student who enjoy coding and always dream of being a influential AI
 </div>
 
   <h1>🚀LeetCode🏆</h1>
-![Leetcode Stats](https://leetcard.jacoblin.cool/qwefghnm1212)
+  <div>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/qwefghnm1212)
+  </div>
 
 
  
