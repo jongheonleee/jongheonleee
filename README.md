@@ -8,7 +8,7 @@ im a college student who enjoy coding and always dream of being a influential AI
 
 
 
-<div align=center><div>
+<!-- <div align=center><div>
   <h1> 🔆Tech Stack🔆 </h1>
   </div>
 
@@ -24,12 +24,13 @@ im a college student who enjoy coding and always dream of being a influential AI
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
    <br>
 
-   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> -->
 
 <!--   <h1>🚀LeetCode🏆</h1> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/qwefghnm1212?theme=unicorn&font=Noto%20Sans%20Sogdian&ext=activity)
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 
 
