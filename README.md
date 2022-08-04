@@ -33,6 +33,14 @@ im a college student who enjoy coding and always dream of being a influential AI
 <!-- </div>
 </div> -->
 
+추후 업데이트 내용: 
+
+내가 어떤식으로 공부하는지 정확히 알려주기
+- 수학 : 노션으로 정리해서 보여주기
+- 프로그래밍 역량 : leetcode, 프로그래머스
+- 인공지능 : 깃허브 리파지토리 & 프로젝트
+- 영어 : 영어를 어떤식으로 공부하는지 쉐도윙, 논문 리뷰, 영단어 암기
+
 
 
  
