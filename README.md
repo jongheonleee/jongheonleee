@@ -16,7 +16,7 @@
  update later
 </p>
 
-<h4 align='center'>Tools</h3>
+<h2 align='center'>Tools</h2>
 <p align='center'>
  
 <h2 align='center'>✍🏻 how to study</h2>
