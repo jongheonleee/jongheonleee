@@ -1,12 +1,12 @@
 <h1 align='center'>Hi there 👋 I'm Yeonuel.</h1>
-- 🙋🏻‍♂️ I’m a college student
-- 🌱 I’m currently learning Django, ReactJS
-- 👯 I’m working in the team YGI as full stack developer
-- 🤔 I always thinks how can i give my influence ...
-- 💬 Ask me about anything!!
-- 📫 How to reach me: qwefghnm1212@gmail.com
-- 😄 my dream: being AI programer in the future,,, 
-- ⚡ Fun fact: i can speack english, korean
+- 🙋🏻‍♂️ I’m a college student </br>
+- 🌱 I’m currently learning Django, ReactJS</br>
+- 👯 I’m working in the team YGI as full stack developer</br>
+- 🤔 I always thinks how can i give my influence ... </br>
+- 💬 Ask me about anything!!</br>
+- 📫 How to reach me: qwefghnm1212@gmail.com</br>
+- 😄 my dream: being AI programer in the future,,, </br>
+- ⚡ Fun fact: i can speack english, korean</br>
 
 
 <h2 align='center'>💪 Skills</h2>
@@ -18,7 +18,7 @@
 <h4 align='center'>Tools</h3>
 <p align='center'>
  
-<h2 align='center'>💪 Learning</h2>
+<h2 align='center'>✍🏻 how to study</h2>
 <h3 align='center'>Programing & Skill</h3>
 <p align='center'>
  <ol>
