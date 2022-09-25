@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **jongheonleee/jongheonleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🙋🏻‍♂️ I’m a college student
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: qwefghnm1212@gmail.com
 - 😄 my dream: being AI programer in the future,,, 
 - ⚡ Fun fact: i can speack english, korean
--->
+
 
 
 
