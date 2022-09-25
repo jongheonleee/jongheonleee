@@ -9,16 +9,14 @@
 - 😄 my dream: being AI programer in the future,,, </br>
 - ⚡ Fun fact: i can speack english, korean</br>
 
-
+<!-- show my skills!! -->
 <h2 align='center'>💪 Skills</h2>
 <h3 align='center'>Platform & Language</h3>
 <p align='center'>
  update later
 </p>
 
-<h2 align='center'>Tools</h2>
-<p align='center'>
- 
+<!-- show how to study  -->
 <h2 align='center'>✍🏻 how to study</h2>
 <h3 align='center'>Programing & Skill</h3>
 <p align='center'>
@@ -26,6 +24,8 @@
   <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>DSA</li>
 </ol>
  </p>
+ 
+
 
 
 
