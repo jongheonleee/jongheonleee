@@ -13,7 +13,10 @@
 <h2 align='center'>💪 Skills</h2>
 
 <p align='center'>
- update later
+<ol>
+ <li>Django</li>
+ <li>ReactJS</li>
+ </ol>
 </p>
 
 <!-- show how to study  -->
