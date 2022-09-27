@@ -11,10 +11,10 @@
 
 <!-- show my skills!! -->
 <h2 align='center'>💪 Skills</h2>
-
 <p align='center'>
 <ol>
  <li>tensorflow</li>
+ <li>keras</li>
  <li>Django</li>
  <li>ReactJS</li>
  <li>HTML, CSS, JS</li>
@@ -23,13 +23,14 @@
 
 <!-- show how to study  -->
 <h2 align='center'>✍🏻 how to study</h2>
-
 <p align='center'>
  <ol>
   <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>DSA</li>
 </ol>
- </p>
+</p>
  
+ 
+<!-- show my works & rank -->
 
 
 
