@@ -14,8 +14,10 @@
 
 <p align='center'>
 <ol>
+ <li>tensorflow</li>
  <li>Django</li>
  <li>ReactJS</li>
+ <li>HTML, CSS, JS</li>
  </ol>
 </p>
 
@@ -28,6 +30,7 @@
 </ol>
  </p>
  
+
 
 
 
