@@ -25,7 +25,11 @@
 <h2 align='center'>✍🏻 how to study</h2>
 <p align='center'>
  <ol>
+  <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>AI</li>
+  <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>Web Framwork</li>
+  <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>Computer cs</li>
   <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>DSA</li>
+  <li><a href='https://www.notion.so/dcda96c218a24db18325e56fa1784286'>Math</li>
 </ol>
 </p>
  
