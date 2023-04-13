@@ -2,15 +2,6 @@
 <h2>Hi there 👋 I'm Yeonuel.</h2>
 <h2>🌱 🙋🏻‍♂️ I’m a college student and im study backend skills </h2>
 
-<!-- show my skills!! -->
-
-
-<!-- show how to study  -->
-
- 
-<!-- show my works & rank -->
-
-
 
 
 
