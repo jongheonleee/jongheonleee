@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
 <h2>Hi there 👋 I'm Yeonuel.</h2> </br>
 
-# 🛠Skills
+# 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 
+
+# 📝 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonuel)](https://solved.ac/yeonuel/)
+
 
 
 # 📬 Contacts
