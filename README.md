@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
-### 안녕하세요 여유롭지만 늘 꾸준한 "여늘"입니다 🙋🏻‍♂️
+### 세상에 소중한 가치를 제공하는 엔지니어가 되기까지 여유롭지만 늘 꾸준하게 노력하는 "여늘"입니다🙋🏻‍♂️
 <br/>
 <br/>
 
