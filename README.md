@@ -18,5 +18,4 @@
 
 
 # 📬 Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yeoneul-tech.tistory.com//)](https://yeoneul-tech.tistory.com//)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwefghnm1212@gmail.com)](mailto:qwefghnm1212@gmail.com)
