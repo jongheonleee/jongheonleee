@@ -1,7 +1,7 @@
 ### 👯‍♀️ Nice to see ya!!
 
 <p>
-  👋&nbsp; Hi there! I want to be a <b>full stack developer</b> skilled in WEB and API.🚀<br/>
+  👋&nbsp; Hi there! I want to be a <b>backend developer</b> skilled in WEB and API.🚀<br/>
   I have study 1 year of web development by myself<br/>
   At present, I have been interested in creating web with Spring and React.<br/>
   I enjoy traveling 🛫, music 𝄞, working out 🧗🏻, meeting people 👯‍♀️, and problem solving 📝 <br/>
