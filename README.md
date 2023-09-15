@@ -1,21 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Yeonuel&fontSize=70)
-### 세상에 소중한 가치를 제공하는 엔지니어가 되기까지 여유롭지만 늘 꾸준하게 노력하는 "여늘"입니다🙋🏻‍♂️
-<br/>
-<br/>
+### 👯‍♀️ Nice to see ya!!
+<p>
+  <a href="https://yeoneul-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<!--   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
+<!--   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
+  <a href="mailto:qwefghnm1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-# 🛠 Skills
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-<br/>
-<br/>
+<p>
+  👋&nbsp; Hi there! I want to be a <b>full stack developer</b> skilled in WEB.🚀<br/>
+  I have study 2 years of web development<br/>
+  At present, I have been interested in creating web with Spring and React.<br/>
+  I enjoy traveling🛫, music𝄞, working out🧗🏻, meeting people 👯‍♀️, and problem solving📝  <br/>
+  I hope to develop every creative and innovative things. ✨ <br/><br/>
+</p>
 
 
-# 📝 PS
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+
+#### 📝 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonuel)](https://solved.ac/yeonuel/)
-<br/>
-<br/>
 
 
-# 📬 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwefghnm1212@gmail.com)](mailto:qwefghnm1212@gmail.com)
+
