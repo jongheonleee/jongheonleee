@@ -14,7 +14,6 @@
 </p>
 
 
-------------------
 
 ### 💪 Skills
 #### Platforms & Languages
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-------------------
 
 #### 📝 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonuel)](https://solved.ac/yeonuel/)
