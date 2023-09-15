@@ -1,14 +1,12 @@
 ### 👯‍♀️ Nice to see ya!!
 <p>
   <a href="https://yeoneul-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
-<!--   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
-<!--   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
-  <a href="mailto:qwefghnm1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qwefghnm1212@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:qwefghnm1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=tistory&logoColor=white"> 
 </p>
 
 <p>
   👋&nbsp; Hi there! I want to be a <b>full stack developer</b> skilled in WEB.🚀<br/>
-  I have study 2 years of web development<br/>
+  I have study 2 years of web development by myself<br/>
   At present, I have been interested in creating web with Spring and React.<br/>
   I enjoy traveling🛫, music𝄞, working out🧗🏻, meeting people 👯‍♀️, and problem solving📝  <br/>
   I hope to develop every creative and innovative things. ✨ <br/><br/>
