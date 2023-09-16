@@ -3,9 +3,9 @@
 <p>
   👋&nbsp; Hi there! I want to be a <b>backend developer</b> skilled in WEB and API.🚀<br/>
   I have study 1 year of web development by myself<br/>
-  At present, I have been interested in creating web with Spring and React.<br/>
+  At present, I have been interested in creating <b>web with Spring and React.</b><br/>
   I enjoy traveling 🛫, music 𝄞, working out 🧗🏻, meeting people 👯‍♀️, and problem solving 📝 <br/>
-  I hope to develop creative and innovative things. ✨ <br/><br/>
+  <b>I hope to develop creative and innovative things. </b>✨ <br/><br/>
 </p>
 
 
