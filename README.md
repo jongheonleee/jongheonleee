@@ -6,7 +6,7 @@
   I have study 1 year of web development by myself<br/>
   At present, I have been interested in creating <b>web with Spring and React.</b><br/>
   I enjoy traveling 🛫, music 𝄞, working out 🧗🏻, meeting people 👯‍♀️, and problem solving 📝 <br/>
-  <b>I hope to develop creative and innovative things. </b>✨ <br/><br/>
+  <b>I hope to develop every creative and innovative things. </b>✨ <br/><br/>
 </p>
 
 
