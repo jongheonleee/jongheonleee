@@ -1,16 +1,13 @@
 
-<p>
-  안녕하세요 <b>'여'</b>유롭지만 <b>'늘'</b> 꾸준하게 몰입을 하며 성장해나가는 <b>'여늘'</b>입니다. 🚀
-</p>
+## 안녕하세요 <b>'여'</b>유롭지만 <b>'늘'</b> 꾸준하게 몰입을 하며 성장해나가는 <b>'여늘'</b>입니다. 🚀
+
 
 
 ### 📌 Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-</p>
-<p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </p>
 
 
