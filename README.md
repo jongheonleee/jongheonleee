@@ -1,12 +1,7 @@
 ### 👯‍♀️ Nice to see ya!!
 
 <p>
-  👋&nbsp; Hi there! I'm Yeonuel,,<br>
-  I want to be a <b>backend developer</b> skilled in WEB and API.🚀<br/>
-  I have study 1 year of web development by myself<br/>
-  At present, I have been interested in creating <b>web with Spring.</b><br/>
-  I enjoy traveling 🛫, music 𝄞, working out 🧗🏻, meeting people 👯‍♀️, and problem solving 📝 <br/>
-  <b>I hope to develop every creative and innovative things. </b>✨ <br/><br/>
+  안녕하세요 <b>'여'</b>유롭지만 <b>'늘'</b> 꾸준하게 몰입을 하며 성장해나가는 <b>'여늘'</b>입니다.
 </p>
 
 
@@ -15,11 +10,9 @@
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
