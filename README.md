@@ -1,11 +1,11 @@
 
 hi there..👋
-<br>
-im Yeonuel who is relaxed but constantly growing through immersion..🚀 
+<br> 
+im Yeonuel who is relaxed but constantly growing through the flow..🌱
 <br>
 <br>
 
-안녕하세요 <b>'여'</b>유롭지만<b>'늘'</b> 꾸준하게 몰입하여 성장해나가는 <b>'여늘'</b>입니다..🚀 
+안녕하세요 <b>'여'</b>유롭지만<b>'늘'</b> 꾸준하게 몰입하여 성장해나가는 <b>'여늘'</b>입니다..🌱🚀 
 
 
 ##### 📌 Platforms & Languages
