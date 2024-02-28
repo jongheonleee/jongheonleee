@@ -1,5 +1,5 @@
 
-hi there..👋 im Yeonuel who is relaxed but constantly growing through the flow..🌱
+hi there..👋 im Yeonuel who is relaxed but constantly improving myself through the flow..🌱
 
 <br>
 <br>
