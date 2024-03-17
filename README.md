@@ -1,6 +1,6 @@
 
 hi there..👋 im Yeonuel who is relaxed but constantly improving myself through the flow..🌱 <br>
-안녕하세요..👋 <strong>'여'</strong>유롭지만  <strong>'늘'</strong> 꾸준하게 몰입하여 성장해나가는 <strong>'여늘'</strong>입니다..🌱
+안녕하세요.👋 <strong>'여'</strong>유롭지만  <strong>'늘'</strong> 꾸준하게 몰입하여 성장해나가는 <strong>'여늘'</strong>입니다..🌱
 
 
 ##### 📌 Platforms & Languages
