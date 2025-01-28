@@ -10,10 +10,6 @@ hi there..👋 im Yeonuel who is relaxed but constantly improving myself through
 
 <br>
 
-제가 고정한 개인 프로젝트를 보시면 Spring, React, AI를 활용한 
-프로젝트를 보실 수 있습니다
-
-<br>
 
 ##### 📌 Platforms & Languages
 <p>
