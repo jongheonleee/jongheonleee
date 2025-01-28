@@ -14,6 +14,8 @@ https://youtu.be/IlU-zDU6aQ0?feature=shared
 밑에는 저의 유튜브 채널입니다. 제가 학습한 내용들을 스스로 설명한 영상들을 
 확인할 수 있습니다 
 
+https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos
+
 
 
 
