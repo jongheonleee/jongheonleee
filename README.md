@@ -4,9 +4,14 @@ hi there..👋 im Yeonuel who is relaxed but constantly improving myself through
 
 <br>
 
-저는 <strong>풀스택 개발자이자 NLP, LLM 기반 애플리케이션</strong> 제작에 관심이 많습니다
-- 백엔드 : Spring, SpringBoot, FastAPI
-- 프론트엔드 : React 
+https://youtu.be/IlU-zDU6aQ0?feature=shared
+제가 학습에 큰 영향을 준 영상입니다. 제가 배운 기술이나 개념들 모두
+저만의 언어로 풀어내고 이해하려고 노력하고 있습니다. 
+그 구체적인 과정은 개인 프로젝트를 통해 스스로 고민하고 해결해 나가는 것과 
+다른이들에게 제가 학습한 것들을 설명하는 것입니다. 
+
+밑에는 저의 유튜브 채널입니다. 제가 학습한 내용들을 스스로 설명한 영상들을 
+확인할 수 있습니다 
 
 <br>
 
