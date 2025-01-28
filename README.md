@@ -7,14 +7,16 @@ hi there..👋 im Yeonuel who is relaxed but constantly improving myself through
 https://youtu.be/IlU-zDU6aQ0?feature=shared
 
 저의 학습 방식에 큰 영향을 준 영상입니다. 
-제가 배운 기술이나 개념들 모두 저만의 언어로 풀어내고 이해하려고 노력하고 있습니다. 
+<strong>제가 배운 기술이나 개념들 모두 저만의 언어로 풀어내고 이해하려고 노력하고 있습니다
 그 구체적인 과정은 개인 프로젝트를 통해 스스로 고민하고 해결해 나가는 것과 
-다른이들에게 제가 학습한 것들을 설명하는 것입니다. 
+다른이들에게 제가 학습한 것들을 설명하는 것입니다. </strong>
 
 밑에는 저의 유튜브 채널입니다. 제가 학습한 내용들을 스스로 설명한 영상들을 
 확인할 수 있습니다 
 
 https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos
+
+저의 개인 프로젝트는 고정된 깃허브 리포지토리에서 확인할 수 있습니다
 
 
 
