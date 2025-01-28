@@ -2,10 +2,18 @@
 hi there..👋 im Yeonuel who is relaxed but constantly improving myself through the flow..🌱 <br>
 안녕하세요..👋 <strong>'여'</strong>유롭지만  <strong>'늘'</strong> 꾸준하게 몰입하여 성장해나가는 <strong>'여늘'</strong>입니다..🌱
 
-저는 풀스택 개발을 할 줄 알며 NLP, LLM 기반 애플리케이션 제작에 관심이 많습니다
+<br>
+
+저는 풀스택 개발자이자 NLP, LLM 기반 애플리케이션 제작에 관심이 많습니다
 - 백엔드 : Spring, SpringBoot, FastAPI
 - 프론트엔드 : React 
 
+<br>
+
+제가 고정한 개인 프로젝트를 보시면 Spring, React, AI를 활용한 
+프로젝트를 보실 수 있습니다
+
+<br>
 
 ##### 📌 Platforms & Languages
 <p>
