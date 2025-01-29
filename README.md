@@ -30,7 +30,7 @@
 
 > - (1) <a href="https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos"> 여늘 학습 유튜브 🙋🏻‍♂️ </a>
 > - (2) 프로젝트는 깃허브에 고정된 리포지토리를 참고해주세요 📱
-> - (3) 깃허브에 과목별로 학습한 내용을 정리해 놓었습니다 
+> - (3) 깃허브에 과목별로 학습한 내용을 정리하고 있습니다  
 
 </strong>
 
