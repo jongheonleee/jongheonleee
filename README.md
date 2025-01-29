@@ -2,23 +2,28 @@
 
 <br>
 
-https://youtu.be/IlU-zDU6aQ0?feature=shared
 
-저의 학습 방식에 큰 영향을 준 영상입니다...🤔
+<a href="https://www.youtube.com/watch?v=C87fr5Q12aY">
+    <img src="https://github.com/user-attachments/assets/7e08788a-ff10-4ba0-bc60-98aa27814b07">
+</a>
+
+저의 학습 방식에 큰 영향을 준 영상입니다(이미지를 클릭하시면 해당 유튜브 영상을 확인할 수 있습니다)...🤔
 <strong>제가 배운 기술이나 개념들 모두 저만의 언어로 풀어내고 이해하려고 노력하고 있습니다
 
 그 구체적인 과정은 아래와 같습니다 
-> - 1. 프로젝트를 통해 고민하고 해결해나가기👨🏻‍💻
-> - 2. 다른이들에게 제가 학습한 것들을 설명하기🧑‍🏫 
+> - (1) 프로젝트를 통해 고민하고 해결해나가기👨🏻‍💻
+> - (2) 다른이들에게 제가 학습한 것들을 설명하기🧑‍🏫 
 </strong>
 
 밑에는 저의 유튜브 채널입니다. 제가 학습한 내용들을 스스로 설명한 영상들을 
 확인할 수 있습니다
 
-https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos
-
-저의 개인 프로젝트는 고정된 깃허브 리포지토리에서 확인할 수 있습니다
-
+<strong>
+  
+> - (1) <a href="https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos"> 여늘 학습 유튜브 🙋🏻‍♂️ </a>
+> - (2) 프로젝트는 깃허브에 고정된 리포지토리를 참고해주세요 📱
+  
+</strong>
 
 
 
