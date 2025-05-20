@@ -21,7 +21,7 @@
 >    - <strong> Tacotron2 기반 TTS 기능 구현 및 AI 모델 훈련/서비스 파이프라인 설계 경험 </strong>
 >      
 > - (4) [부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트) - BYEZ 👕👚](https://github.com/jongheonleee/byez) _기간: 2024.04~2024.05
->    - <strong> 팀 단위의 협업, 의사소통, 개발 스케줄 조율 </strong>
+>    - <strong> 팀 단위 협업 & 의사소통, 개발 스케줄 조율 </strong>
 > 
 
 <br>
