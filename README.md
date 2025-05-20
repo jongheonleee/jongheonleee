@@ -11,14 +11,14 @@
 <br> 
 
 ## 1️⃣ 여늘의 성장기🧗🏻 - 프로젝트 경험을 중심으로 성장한 과정에 대해 설명합니다.
-> - <strong> 1. 풀스택 기반 취준생 커뮤니티(개인 프로젝트)[Kotlin, Typescript, Spring, React]: [Sodam 🍃](https://github.com/jongheonleee/Sodam) </strong> _기간: 2025.03~진행중
->     - 풀스택 경험, RDBMS & 백엔드& 시스템 아키텍처 설계, 다양한 성능 개선(Async/Non Blocking, Redis, RDBMS Index 설정 및 쿼리 개선, ...)
-> - <strong> 2. Java 40,000+a 라인 수와 2300개 + a 테스트 코드 작성 경험(개인 프로젝트): [Connecting-dots ✨](https://github.com/jongheonleee/connecting-dots) </strong> _기간: 2025.01~2025.02
->     - 개발 생산성 & TDD 훈련
-> - <strong> 3. 첫 백엔드 & AI 프로젝트(팀 프로젝트)[Python, PyTorch, Tacotron2]: [5RE5PARK 🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) </strong> _기간: 2024.10~2024.12
->     - Tacotron2 기반 TTS 기능 구현 및 AI 모델 훈련/서비스 파이프라인 설계 경험
-> - <strong> 4. 부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트)[Java11, JSP, HTML, CSS, JS(EC6)]: [byez 👕👚](https://github.com/jongheonleee/byez) </strong> _기간: 2024.04~2024.05
->     - 팀 단위의 협업, 의사소통, 개발 스케줄 조율
+> - (1) 취준생을위한 구독권 서비스 커뮤니티(개인 프로젝트)[Kotlin, Typescript, Spring, React]: [Sodam 🍃](https://github.com/jongheonleee/Sodam) _기간: 2025.03~진행중
+>    - <strong> 풀스택 경험, 전체 서비스 설계(RDBMS & 백엔드 & 시스템 & 인프라 아키텍처), 다양한 성능 개선(Async/Non Blocking, Redis, RDBMS Index 설정 및 쿼리 개선, ...), UI 컴포넌트 설계 및 구현 </strong>
+> - (2) 게시판 기반 커뮤니티 사이트(개인 프로젝트): [Connecting-dots ✨](https://github.com/jongheonleee/connecting-dots) _기간: 2025.01~2025.02
+>    - <strong> Java 40,000+a 라인 수와 2300개 + a 테스트 코드 작성 경험, 개발 생산성 & TDD 훈련 </strong> 
+> - (3) 첫 백엔드 & AI 프로젝트(팀 프로젝트)[Python, PyTorch, Tacotron2]: [5RE5PARK 🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) _기간: 2024.10~2024.12
+>    - <strong> Tacotron2 기반 TTS 기능 구현 및 AI 모델 훈련/서비스 파이프라인 설계 경험 </strong> 
+> - (4) 부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트)[Java11, JSP, HTML, CSS, JS(EC6)]: [byez 👕👚](https://github.com/jongheonleee/byez) _기간: 2024.04~2024.05
+>    - <strong> 팀 단위의 협업, 의사소통, 개발 스케줄 조율 </strong>
 
 <br>
 
@@ -29,8 +29,8 @@
 
 <br>
 
-저의 학습 방식에 큰 영향을 준 영상입니다(이미지를 클릭하시면 해당 유튜브 영상을 확인할 수 있습니다)...🤔
-<strong>제가 배운 기술이나 개념들 모두 저만의 언어로 풀어내고 이해하려고 노력하고 있습니다 💪
+저의 학습 방식에 큰 영향을 준 영상입니다(이미지를 클릭하시면 해당 유튜브 영상을 확인할 수 있습니다)...🤔  <br>
+<strong>제가 배운 기술이나 개념들 모두 저만의 언어로 풀어내고 이해하려고 노력하고 있습니다 💪 </strong>
 
 <br>
 
@@ -49,7 +49,7 @@
 
 > - (1) <a href="https://m.youtube.com/channel/UCuoJYgD3MFsQu2LvyqM8Llw/videos"> 여늘 학습 유튜브 🙋🏻‍♂️ </a>
 > - (2) 프로젝트는 깃허브에 고정된 리포지토리를 참고해주세요 📱
-> - (3) 깃허브에 과목별로 학습한 내용을 정리하고 있습니다  
+> - (3) 깃허브, 기술 블로그 또는 유튜브에 과목별로 학습한 내용을 정리하고 있습니다  
 
 </strong>
 
