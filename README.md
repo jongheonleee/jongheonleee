@@ -12,7 +12,7 @@
 
 ## 1️⃣ 여늘의 성장기🧗🏻 - 프로젝트 경험을 중심으로 성장한 과정에 대해 설명합니다.
 > - <strong> 1. 풀스택 기반 취준생 커뮤니티(개인 프로젝트)[Kotlin, Typescript, Spring, React]: [Sodam 🍃](https://github.com/jongheonleee/Sodam) </strong> _기간: 2025.03~진행중
->     - 풀스택 경험, RDBMS & 백엔드& 시스템 아키텍처 설계, 다양한 성능 개선(Async/Non Blocking, Redis, RDBMS Index 설정, ...)
+>     - 풀스택 경험, RDBMS & 백엔드& 시스템 아키텍처 설계, 다양한 성능 개선(Async/Non Blocking, Redis, RDBMS Index 설정 및 쿼리 개선, ...)
 > - <strong> 2. Java 40,000+a 라인 수와 2300개 + a 테스트 코드 작성 경험(개인 프로젝트): [Connecting-dots ✨](https://github.com/jongheonleee/connecting-dots) </strong> _기간: 2025.01~2025.02
 >     - 개발 생산성 & TDD 훈련
 > - <strong> 3. 첫 백엔드 & AI 프로젝트(팀 프로젝트)[Python, PyTorch, Tacotron2]: [5RE5PARK 🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) </strong> _기간: 2024.10~2024.12
