@@ -20,7 +20,7 @@
 >    - <strong> Java 46,700 라인 작성 및 2,120개 테스트 경험, TDD를 활용한 효율적인 프로그래밍 방식 학습 </strong>
 >      
 > - (3) [첫 백엔드 & AI 프로젝트(팀 프로젝트) - 5RE5 PARK🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) _기간: 2024.10~2024.12
->    - <strong> 에러 발생시 재시도를 통한 복구 기능 구현(재시도 정책 수립 및 @Retrable 활용), Tacotron2 기반 TTS 기능 구현 및 AI 모델 훈련/서비스 파이프라인 설계 경험 </strong>
+>    - <strong> 재시도를 통한 복구 기능 구현(재시도 정책 수립 및 @Retrable 활용), Tacotron2 기반 TTS 기능 구현 및 AI 모델 학습·튜닝·배포 파이프라인 설계 경험  </strong>
 >      
 > - (4) [부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트) - BYEZ 👕👚](https://github.com/jongheonleee/byez) _기간: 2024.04~2024.05
 >    - <strong> 팀 단위 협업 & 의사소통, 개발 스케줄 조율 </strong>
