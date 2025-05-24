@@ -22,7 +22,10 @@
 >   </strong>
 >
 > - (2) [게시판 기반 자기계발 커뮤니티(개인 프로젝트) - Connecting Dots✨](https://github.com/jongheonleee/connecting-dots) _기간: 2025.01~2025.02
->    - <strong> Java 46,700 라인 작성 및 2,120개 테스트 경험, TDD를 활용한 효율적인 프로그래밍 방식 학습 </strong>
+>   <strong>
+>    - Java 46,700 라인 작성 및 2,120개 테스트 경험, TDD를 활용한 효율적인 프로그래밍 방식 학습
+>    - SQL 튜닝(Oracle) - 서브 쿼리 캐싱, 인덱스 수평 탐색 범위 최소화, 조인 튜닝 
+>   </strong>
 >      
 > - (3) [첫 백엔드 & AI 프로젝트(팀 프로젝트) - 5RE5 PARK🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) _기간: 2024.10~2024.12
 >   <strong>
