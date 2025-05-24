@@ -14,16 +14,24 @@
 
 ## 1️⃣ 여늘의 성장기🧗🏻 - 프로젝트 경험을 중심으로 성장한 과정에 대해 설명합니다.
 > - (1) [취준생을 위한 구독권 기반 학습 커뮤니티(개인 프로젝트) - Sodam🍃](https://github.com/jongheonleee/Sodam) _기간: 2025.03~진행중
->    - <strong> 풀스택 경험, 전체 서비스 설계(RDBMS & 백엔드 & 시스템 & 인프라 아키텍처), 다양한 성능 개선(Kotlin Coroutine + SpringWebFlux(Async/Non Blocking), Redis Cache Hit, RDBMS Index 설정 및 쿼리 개선), UI 컴포넌트 설계 및 구현(React + Typescript) </strong>
+>   <strong>
+>    - 서비스 기획·디자인·구현 경험(풀스택 경험) 
+>    - 고가용성·부하 분산·안정성을 고려한 서비스 아키텍처 설계
+>    - 다양한 성능 개선 -> Async/Non Blocking 적용, Redis 기반 캐시, 인덱스 설정을 통한 탐색 범위 최소화 등   
+>    - Kafka & Elastic Search 활용한 서비스 고도화
+>   </strong>
 >
 > - (2) [게시판 기반 자기계발 커뮤니티(개인 프로젝트) - Connecting Dots✨](https://github.com/jongheonleee/connecting-dots) _기간: 2025.01~2025.02
 >    - <strong> Java 46,700 라인 작성 및 2,120개 테스트 경험, TDD를 활용한 효율적인 프로그래밍 방식 학습 </strong>
 >      
 > - (3) [첫 백엔드 & AI 프로젝트(팀 프로젝트) - 5RE5 PARK🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) _기간: 2024.10~2024.12
->    - <strong> 재시도를 통한 복구 기능 구현(재시도 정책 수립 및 @Retrable 활용), Tacotron2 기반 TTS 기능 구현 및 AI 모델 학습·튜닝·배포 파이프라인 설계 경험  </strong>
+>   <strong>
+>    - 재시도를 통한 복구 기능 구현(재시도 정책 수립 및 @Retrable 활용)
+>    - Tacotron2 기반 TTS 기능 구현 및 AI 모델 학습·튜닝·배포 파이프라인 설계 경험
+>   </strong>
 >      
 > - (4) [부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트) - BYEZ 👕👚](https://github.com/jongheonleee/byez) _기간: 2024.04~2024.05
->    - <strong> 팀 단위 협업 & 의사소통, 개발 스케줄 조율 </strong>
+>    - <strong> 팀 단위 의사소통 및 협업, 기술 문서, Notion 회의록 작성, WBS 기반 일정 조율, 프로젝트 발표 수행 </strong>
 > 
 
 <br>
