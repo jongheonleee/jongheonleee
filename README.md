@@ -18,7 +18,8 @@
 >    - 서비스 기획·디자인·구현 경험(풀스택 경험) 
 >    - 고가용성·부하 분산·안정성을 고려한 서비스 아키텍처 설계
 >    - 다양한 성능 개선 -> Async/Non Blocking 적용, Redis 기반 캐시, 인덱스 설정을 통한 탐색 범위 최소화 등   
->    - Kafka & Elastic Search 활용한 서비스 고도화
+>    - Elastic Search 주문 이력 조회 성능 개선
+>    - Kafka 비동기 메시징 큐를 활용한 주문 이력 데이터 일괄 등록 처리 및 성능 개선 
 >   </strong>
 >
 > - (2) [게시판 기반 자기계발 커뮤니티(개인 프로젝트) - Connecting Dots✨](https://github.com/jongheonleee/connecting-dots) _기간: 2025.01~2025.02
