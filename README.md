@@ -16,7 +16,7 @@
 > - (1) [취준생을 위한 구독권 기반 학습 커뮤니티(개인 프로젝트) - Sodam🍃](https://github.com/jongheonleee/Sodam) _기간: 2025.03~진행중
 >   <strong>
 >    - 서비스 기획·디자인·구현 경험(풀스택 경험) 
->    - 고가용성·부하 분산·안정성을 고려한 서비스 아키텍처 설계
+>    - 고가용성·부하 분산·안정성을 고려한 서비스 아키텍처 설계 
 >    - 다양한 성능 개선 -> Async/Non Blocking 적용, Redis 기반 캐시, 인덱스 설정을 통한 탐색 범위 최소화 등   
 >    - Elastic Search 주문 이력 조회 성능 개선
 >    - Kafka 비동기 메시징 큐를 활용한 주문 이력 데이터 일괄 등록 처리 및 성능 개선 
@@ -31,7 +31,7 @@
 > - (3) [첫 백엔드 & AI 프로젝트(팀 프로젝트) - 5RE5 PARK🍪](https://github.com/jongheonleee/FinalProject_5RE5_BE) _기간: 2024.10~2024.12
 >   <strong>
 >    - 재시도를 통한 복구 기능 구현 -> 재시도 정책 수립 및 @Retrable 활용
->    - Tacotron2 기반 TTS 기능 구현 및 AI 모델 학습·튜닝·배포 파이프라인 설계 경험
+>    - Tacotron2 기반 TTS 기능 구현 및 AI 모델 학습·설계 경험
 >   </strong>
 >      
 > - (4) [부팀장 담당, 의류 쇼핑몰 구현(팀 프로젝트) - BYEZ 👕👚](https://github.com/jongheonleee/byez) _기간: 2024.04~2024.05
