@@ -5,7 +5,7 @@
 <br>
 
 ## Work Experience 
-> - LLM(AI) & Backend Engineer _2025 07/08 ~ current
+> - LLM Engineer / Backend Developer _2025 07/08 ~ current
 >    - Backend: Java, Spring/ LLM(AI): Python, LLM, Fine Tunning, RAG, Rang Chain
 
 
