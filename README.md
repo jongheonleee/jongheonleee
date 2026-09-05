@@ -10,13 +10,14 @@
 >    - Backend: Java 21+, Spring, MariaDB(MySQL)
 >    - LLM(AI): Python, Pytorch, Transformer, LLM, PEFT
 >    - Multi-Agent System: RAG, LangChain, LangGraph, LangSmith
->    - Infra: Linux, Docker, Prometheus, Grafana
+>    - Infra: Linux, Docker, Prometheus, Grafana, Loki, FluentBit
 
 ## Innovation Contribution On My Work
 > - Multi Agent System 설계 참여 및 구축
-> - LLM PEFT 튜닝 
+> - LLM PEFT(QLora) 튜닝 및 MLflow 기반 MLOps 구축
 > - Claude Code + Codex 기반 하네스 엔지니어링 프로젝트 적용 및 개발 방법론 사내 공유
 > - TestContainer 기반 테스트 환경 구축 TDD 적용 및 OOP 시스템 설계(전략 패턴 도입을 통한 코드 레벨의 확장성 있는 설계 도모)
-> - Loki, Fluent Bit를 활용한 로깅 파이프라인 구축 및 Promethus를 통한 모니터링 / 알림 시스템 체계 도입
-> - 젠킨스 파이프라인 운영 및 관리
+> - Docker, Prometheus, Loki, FluentBit를 활용한 로깅 파이프라인 / 모니터링 / 알람 시스템 도입
+> - Jenkins CI/CD 운영 관리
+> - 사용자 스마트폰의 가속도센서 기반 움직임 여부 및 GPS 정보를 활용하여 kakao map에 표시해주는 모니터링 기능 설계 및 구현 
 
