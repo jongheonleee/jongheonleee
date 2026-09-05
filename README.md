@@ -14,7 +14,7 @@
 
 ## Innovation Contribution On My Work
 > - 건설 안전 도메인 Multi Agent System 초기 설계 참여 및 구축
-> - LLM PEFT(QLora) 튜닝 및 MLflow 기반 MLOps 구축
+> - LLM PEFT(QLoRA) 튜닝 및 MLflow 기반 MLOps 구축
 > - Claude Code + Codex 기반 하네스 엔지니어링 프로젝트 적용 및 개발 방법론 사내 공유
 > - TestContainer 기반 테스트 환경 구축 TDD 적용 및 OOP 시스템 설계(전략 패턴 도입을 통한 코드 레벨의 확장성 있는 설계 도모)
 > - Docker, Prometheus, Loki, FluentBit를 활용한 로깅 파이프라인 / 모니터링 / 알람 시스템 도입
