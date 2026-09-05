@@ -13,7 +13,7 @@
 >    - Backend: Java 21+, SpringBoot 3.1+, SpringSecurity 6+, Spring Batch 6+, MariaDB 11+(MySQL), Qdrant, ElasticSearch 7+
 >    - LLM(AI): Python 3.12+, Pytorch, Transformer, LLM, PEFT
 >    - Multi-Agent System: RAG, LangChain, LangGraph, LangSmith
->    - Infra: Linux, Docker, Prometheus, Grafana, Loki, FluentBit
+>    - Infra: Linux, Docker, Prometheus, Grafana, Loki, K6, FluentBit
 >    - Cloud: AWS
 
 <br>
