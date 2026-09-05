@@ -1,4 +1,4 @@
-## 안녕하세요 AI Architect Engineer 여늘입니다 🙋🏻‍♂️
+## 안녕하세요. AI Architect Engineer 여늘입니다 🙋🏻‍♂️
 
 - 기술로서 선한 혁신에 기여하는 **AI Architect Engineer 여늘입니다.**
 - **비즈니스 상황과 개발 문화에 맞는 최적의 설계와 개발 방법론이 있다고 생각합니다. 현재 제가 소속해 있는 회사의 문화, 비즈니스, 특성을 고려하여 다양한 영역(시스템 아키텍처, 코드베이스, 멀티 에이전트, 하네스엔지니어링 등)을 설계하며 개발 환경을 개선하여 팀의 생산성을 이끄는 AI Architect Engineer입니다.**
@@ -10,8 +10,8 @@
 ## Work Experience 
 > - AI Architect Engineer _2025 07/08 ~ current
 >    - Frontend: JS 6.1+, JQuery, Ajax, Thymeleaf   
->    - Backend: Java 21+, Spring, MariaDB(MySQL)
->    - LLM(AI): Python, Pytorch, Transformer, LLM, PEFT
+>    - Backend: Java 21+, SpringBoot 3.1+, SpringSecurity 6+, Spring Batch 6+, MariaDB 11+(MySQL), Qdrant, ElasticSearch 7+
+>    - LLM(AI): Python 3.12+, Pytorch, Transformer, LLM, PEFT
 >    - Multi-Agent System: RAG, LangChain, LangGraph, LangSmith
 >    - Infra: Linux, Docker, Prometheus, Grafana, Loki, FluentBit
 
