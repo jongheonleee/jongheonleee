@@ -14,6 +14,7 @@
 >    - LLM(AI): Python 3.12+, Pytorch, Transformer, LLM, PEFT
 >    - Multi-Agent System: RAG, LangChain, LangGraph, LangSmith
 >    - Infra: Linux, Docker, Prometheus, Grafana, Loki, FluentBit
+>    - Cloud: AWS
 
 <br>
 
