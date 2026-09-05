@@ -11,7 +11,7 @@
 > - AI Architect Engineer _2025 07/08 ~ current (AWASOFT / R&D)
 >    - Frontend: JS 6.1+, JQuery, Ajax, Thymeleaf   
 >    - Backend: Java 21+, SpringBoot 3.1+, SpringSecurity 6+, Spring Batch 6+, MyBatis, MariaDB 11+(MySQL), Qdrant, ElasticSearch 7+
->    - LLM(AI): Python 3.12+, Pytorch, Transformer, LLM, PEFT
+>    - AI(LLM): Python 3.12+, Pytorch, Transformer, LLM, PEFT
 >    - Multi-Agent System: RAG, LangChain, LangGraph, LangSmith
 >    - Infra: Linux, Docker, Prometheus, Grafana, Loki, K6, FluentBit
 >    - Cloud: AWS
