@@ -1,6 +1,6 @@
 ## 안녕하세요 AI Architect Engineer 여늘입니다 🙋🏻‍♂️
 
-- 기술로서 선한 혁신에 기여하고 싶은 AI Architect Engineer 여늘입니다.
+- 기술로서 선한 혁신에 기여하는 **AI Architect Engineer 여늘입니다.**
 - **비즈니스 상황과 개발 문화에 맞는 최적의 설계와 기능 개발 방법론이 있다고 생각합니다. 그 특성을 고려하여 다양한 영역(시스템 아키텍처, 코드베이스, 멀티 에이전트, 하네스엔지니어링 등)을 설계하며 개발 환경을 개선하여 팀의 생산성을 이끄는 AI Architect Engineer입니다.**
 - 현재 딥러닝, LLM, Multi-Agent System, Infra 및 System Architect 영역을 집중적으로 공부하고 있습니다.
 - 또한, 결국 변하지 않는 펀더멘탈 CS에 대해서도 깊이있게 학습하고 있습니다.
