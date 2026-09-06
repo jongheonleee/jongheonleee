@@ -35,7 +35,7 @@
 ## [3] My Tech Talk on Work and Community
 > - (1) Hello, MLflow?! 
 >   - MLflow에 대한 이론 내용 및 Llama 3.1 8B 기반 Instruction Tuning을 MLflow를 활용하여 체계적으로 관리하는 실습
->   - 발표 영상 링크: 
+>   - 발표 영상 링크: https://www.youtube.com/watch?v=bKN75xwFwwY
 > - (2) 회사 전담 프로젝트 Claude Code + Codex 기반 하네스 엔지니어링 적용 및 개발 방법론 
 >   - 하네스 엔지니어링 시스템 설계, 개발 생산성 도모를 위한 여러가지 방법론 제시
 >   - 발표 영상 링크: (추후에 첨부할 계획)
