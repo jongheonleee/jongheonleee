@@ -25,7 +25,7 @@
 > - Docker, TestContainer, Junit 5+, Mockito 5+ 기반 테스트 환경 구축 TDD 방법론 적용
 > - OOP 설계, 전략 패턴 도입을 통한 코드 레벨의 확장성 있는 설계 도모
 > - 사내 로깅 정책 수립 및 Docker에서 수집된 log 파일 서버에 적재되도록 구축
-> - Docker, Prometheus, Loki, FluentBit를 활용한 로깅 파이프라인 / 모니터링 / 알람 시스템 도입
+> - Docker, Prometheus, Loki, Alloy, Locust 활용한 로깅 파이프라인 / 모니터링 / 알람 시스템 / 부하 테스트기 도입
 > - Jenkins CI/CD 운영 관리 
 > - 사용자 스마트폰의 가속도 센서 기반 움직임 관측 시간 및 GPS 수집 정보를 활용하여 지도에 위치 정보 및 사용자 상태 표시해주는 모니터링 기능 설계 및 구현
 > - 온프레미스 환경에서 Docker를 활용하여 문서 솔루션 구축 및 NFS 통신 적용, 문서 작성 기능 구현(웹한글 기안기, Eform)
